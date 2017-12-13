@@ -1,0 +1,8 @@
+---
+simp_options::package_ensure: 'present'
+simp_options::pki: 'simp'
+
+clamav::rsync_source: ''
+sssd::domains: ['LOCAL']
+
+# vi:ts=4:sw=4:expandtab
