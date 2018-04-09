@@ -282,7 +282,7 @@ mod 'simp-postfix',
 
 mod 'simp-pupmod',
     git: 'https://github.com/simp/pupmod-simp-pupmod.git',
-    tag: '7.3.1'
+    tag: '7.5.0'
 
 mod 'puppetlabs-puppetdb',
     git: 'https://github.com/simp/puppetlabs-puppetdb.git',
